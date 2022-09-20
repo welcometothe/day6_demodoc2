@@ -2,7 +2,7 @@
 
 h=0
 t=0
-while [ $h -lt 11 ] && [ $t -lt 11 ]
+#while [ $h -lt 11 ] && [ $t -lt 11 ]
 do
 x=$((RANDOM%2))
 echo $x
